@@ -16,7 +16,7 @@
 
 ## ⏳ Me now
 
-- 🔭 I’m currently working on [⚙ BU](brainuniversity.ru) and [stepik course](https://stepik.org/course/138258/)
+- 🔭 I’m currently working on [⚙ BU](https://brainuniversity.ru) and [stepik course](https://stepik.org/course/138258/)
 - 🌱 I’m currently learning Go
 - 🤔 I’m looking for help with optimizing the performance of my web application and reducing its load times.
 - 💬 Ask me about my experience with Python programming and data analysis
