@@ -1,6 +1,8 @@
 # Hi there 👋
 
+<div align="center">
 <image src="hello_image.gif">
+</div>
 
 # 🆅🅻🅰🅳  🅱🆄🅺🅷🅰🆁🅸🅽
 
@@ -75,4 +77,6 @@
 - 📧 Email: <a href="mailto:vladbax14@gmail.com">vladbax14@gmail.com</a>
 - 💬 Telegram: <a href="t.me/Vladhagh">@Vladhagh</a>
 
+<div align="center">
 <img src="bye_image.gif">
+</div>
