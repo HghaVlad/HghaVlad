@@ -81,12 +81,3 @@
 <img src="bye_image.gif">
 </div>
 
-## 🚀 Really simple recent projects
-
-1. [Face recognizer](https://github.com/HghaVlad/face_recognizer)
-2. [Simple Flask app](https://github.com/HghaVlad/simpart)
-3. [Pdf to Mp3 app](https://github.com/HghaVlad/pdf2mp3)
-4. [Poll bot](https://github.com/HghaVlad/oprosbot)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
