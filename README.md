@@ -75,7 +75,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: <a href="mailto:vladbax14@gmail.com">vladbax14@gmail.com</a>
-- 💬 Telegram: <a href="t.me/Vladhagh">@Vladhagh</a>
+- 💬 Telegram: <a href="https://t.me/Vladhagh">@Vladhagh</a>
 
 <div align="center">
 <img src="bye_image.gif">
