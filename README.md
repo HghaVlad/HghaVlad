@@ -86,9 +86,9 @@
 
 1. [Frame site](https://github.com/HghaVlad/frame_lyceum/tree/backend)
 2. [Backend Development Course](https://github.com/HghaVlad/ivr_tasks/tree/book)
-3. [Face recognizer](https://github.com/HghaVlad/face_recognizer)
-4. [Simple Flask app](https://github.com/HghaVlad/simpart)
-5. [Pdf to Mp3 app](https://github.com/HghaVlad/pdf2mp3)
+3. [AdminkaBot](https://github.com/HghaVlad/AdminkaBot)
+4. [Face recognizer](https://github.com/HghaVlad/face_recognizer)
+5. [Simple Flask app](https://github.com/HghaVlad/simpart) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
