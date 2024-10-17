@@ -9,15 +9,15 @@
 ## 👨🏻‍💻 About me
 
 - 🙍‍♂️ Man
-- 👦🏻 16 years old
+- 👦🏻 18 years old
 - 🇷🇺 Russia
 - 🌃 Moscow
-- 🎓 High School
+- 🎓 HSE University
 
 ## ⏳ Me now
 
-- 🔭 I’m currently working on [⚙ BU](https://brainuniversity.ru) and [stepik course](https://stepik.org/course/138258/)
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on [stepik course](https://stepik.org/course/138258/) and THE BOT project
+- 🌱 I’m currently learning Go and C#
 - 🤔 I’m looking for help with optimizing the performance of my web application and reducing its load times.
 - 💬 Ask me about my experience with Python programming and data analysis
 - 💪 My strengths in programming are in developing web applications and working with databases.
@@ -27,13 +27,13 @@
 ## 💻 Technologies
 
 - 🌐 Frontend: HTML, CSS, JavaScript
-- 🛠️ Backend: Python, Django, Flask
-- 🗃️ Databases: MySQL, PostgreSQL, SQLite, Redis
-- 🚀 Tools: Git, Docker, Unix
+- 🛠️ Backend: Python, Django/DRF, Flask, FastApi, JWT, ClickHouse, RabbitMQ
+- 🗃️ Databases: MySQL, PostgreSQL, SQLite, Redis, MongoDB
+- 🚀 Tools: Git, Docker, Unix, Nginx
 
 ## 🤖 Bot Development & Web Scraping
 
-- 🤖 Telegram Bot Development: Python-telegram-bot, Telebot, BotFather
+- 🤖 Telegram Bot Development: Aiogram, Python-telegram-bot, Telebot, BotFather
 - 🕸️ Web Scraping: Beautiful Soup, Scrapy, Selenium, Requests
 - 🛠️ Data Parsing & Processing: Pandas, NumPy, JSON, CSV
 - 📊 Data Visualization: Matplotlib, Seaborn, Plotly, Dash
@@ -50,6 +50,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -75,20 +76,20 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: <a href="mailto:vladbax14@gmail.com">vladbax14@gmail.com</a>
-- 💬 Telegram: <a href="https://t.me/Vladhagh">@Vladhagh</a>
+- 💬 Telegram: <a href="https://t.me/Vladbukharin">@Vladbukharin</a>
 
 <div align="center">
 <img src="bye_image.gif">
 </div>
 <br>
 
-## 🚀 Really simple recent projects
+## 🚀 NOT NDA Recent projects
 
-1. [Frame site](https://github.com/HghaVlad/frame_lyceum/tree/backend)
-2. [Backend Development Course](https://github.com/HghaVlad/ivr_tasks/tree/book)
-3. [AdminkaBot](https://github.com/HghaVlad/AdminkaBot)
-4. [Face recognizer](https://github.com/HghaVlad/face_recognizer)
-5. [Simple Flask app](https://github.com/HghaVlad/simpart) 
+1. [My solution for hackathon](https://github.com/HghaVlad/SocialNetworkApi)
+2. [Also solution for same hackathon](https://github.com/HghaVlad/Travel-agent-bot)
+4. [ML contest](https://github.com/HghaVlad/alfacampus2024)
+5. [MVP for Prod olymp](https://github.com/HghaVlad/PRODlenka-SMM-service)
+6. [Frame site](https://github.com/HghaVlad/frame_lyceum/) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
