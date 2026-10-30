@@ -9,34 +9,33 @@
 ## 👨🏻‍💻 About me
 
 - 🙍‍♂️ Man
-- 👦🏻 18 years old
+- 👦🏻 20 years old
 - 🇷🇺 Russia
 - 🌃 Moscow
 - 🎓 HSE University
 
 ## ⏳ Me now
 
-- 🔭 I’m currently working on [stepik course](https://stepik.org/course/138258/) and THE BOT project
-- 🌱 I’m currently learning Go and C#
-- 🤔 I’m looking for help with optimizing the performance of my web application and reducing its load times.
-- 💬 Ask me about my experience with Python programming and data analysis
-- 💪 My strengths in programming are in developing web applications and working with databases.
-- 🚀 My favorite programming languages/tools are Python, PostgreSQL, and Git.
-- 🇬🇧 Fluent in English, happy to chat about programming and tech!
+- 🔭 Building backend services and APIs with Go and Python.
+- 🌱 Learning Kubernetes and exploring the design of high-load distributed systems.
+- ⚙️ Interested in event-driven architecture, scalability, and performance engineering.
+- 💬 Happy to chat about Go, Python, databases, and backend development.
 
 ## 💻 Technologies
 
-- 🌐 Frontend: HTML, CSS, JavaScript
-- 🛠️ Backend: Python, Django/DRF, Flask, FastApi, JWT, ClickHouse, RabbitMQ
-- 🗃️ Databases: MySQL, PostgreSQL, SQLite, Redis, MongoDB
-- 🚀 Tools: Git, Docker, Unix, Nginx
+- **Languages:** Go, Python, SQL, JavaScript
+- **Backend:** Django / DRF, FastAPI, Flask, REST APIs, gRPC, Protocol Buffers, JWT
+- **Databases:** PostgreSQL, ClickHouse, MySQL, SQLite, MongoDB, Redis
+- **Data & messaging:** Kafka, RabbitMQ, Avro
+- **Infrastructure & tools:** Docker, Nginx, Linux / Unix, Git
+- **Currently exploring:** Kubernetes, high-load systems design
 
-## 🤖 Bot Development & Web Scraping
+## 🤖 Bots, automation & data
 
-- 🤖 Telegram Bot Development: Aiogram, Python-telegram-bot, Telebot, BotFather
-- 🕸️ Web Scraping: Beautiful Soup, Scrapy, Selenium, Requests
-- 🛠️ Data Parsing & Processing: Pandas, NumPy, JSON, CSV
-- 📊 Data Visualization: Matplotlib, Seaborn, Plotly, Dash
+- **Telegram bots:** aiogram, python-telegram-bot, Telebot
+- **Web scraping:** Beautiful Soup, Scrapy, Selenium, Requests
+- **Data processing:** Pandas, NumPy
+- **Data visualization:** Matplotlib, Seaborn, Plotly, Dash
 
 ## Skills
 
@@ -60,18 +59,6 @@
 </div>
 <br>
 
-## Also skills
-
-<div style="padding-top: 10px">
-<div align="center">  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
-</div>
-<br>
 
 ## 📫 How to Reach Me
 
@@ -83,13 +70,14 @@
 </div>
 <br>
 
-## 🚀 NOT NDA Recent projects
 
-1. [My solution for hackathon](https://github.com/HghaVlad/SocialNetworkApi)
-2. [Also solution for same hackathon](https://github.com/HghaVlad/Travel-agent-bot)
-4. [ML contest](https://github.com/HghaVlad/alfacampus2024)
-5. [MVP for Prod olymp](https://github.com/HghaVlad/PRODlenka-SMM-service)
-6. [Frame site](https://github.com/HghaVlad/frame_lyceum/) 
+## 🚀 Selected projects
+
+1. [Trainee Match](https://github.com/HghaVlad/trainee-match) — university course project.
+2. [CinemaSite](https://github.com/HghaVlad/CinemaSite) - university course project.
+3. [PRODlenka](https://github.com/HghaVlad/PRODlenka-SMM-service) — an MVP developed for the PROD competition.
+4. [Alfa Campus](https://github.com/HghaVlad/alfacampus2024) - my work for a machine learning competition.
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
